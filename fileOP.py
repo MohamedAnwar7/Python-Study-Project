@@ -10,7 +10,7 @@ with open('test.txt', 'r') as rf:
         for line in rf:
             wf.write(line)
 
-# copy image file 
+# copy image file
 with open('theres-no-place-like-localhost-51-1600x900.jpg', 'rb') as rf:
     with open('copy_test.jpg', 'wb') as wf:
         for line in rf:

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c58b75c-d779-4f89-837c-d42ec9d9a08b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dateformate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonJSON.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iterator">
+  <component name="RunManager" selected="Python.RegEx">
     <configuration name="OOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OSmodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RegEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OSmodule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dateformate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dateformate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pythonJSON" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonJSON.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RegEx" />
+        <item itemvalue="Python.pythonJSON" />
+        <item itemvalue="Python.dateformate" />
         <item itemvalue="Python.iterator" />
         <item itemvalue="Python.OOP" />
-        <item itemvalue="Python.random_num" />
-        <item itemvalue="Python.fileOP" />
-        <item itemvalue="Python.OSmodule" />
       </list>
     </recent_temporary>
   </component>

@@ -15,10 +15,10 @@ class MyNumbers:
 myclass = MyNumbers()
 myiter = iter(myclass)
 
-for num in myiter:
-    print(num)
-
+# for num in myiter:
+#     print(num)
 # mytuple = 'strings'
 # myiter = iter(mytuple)
-# print(next(myiter))
+
+#print(next(myiter))
 # print(next(myiter))
